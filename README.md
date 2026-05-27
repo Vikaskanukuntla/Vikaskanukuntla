@@ -23,7 +23,7 @@
 
 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/vikaskanukuntla](https://www.linkedin.com/in/vikas-kanukuntla-aab71934a/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/vikaskanukuntla])
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/vikaskanukuntla)
 
 ---
