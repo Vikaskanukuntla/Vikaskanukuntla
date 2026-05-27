@@ -55,9 +55,3 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
 
 ---
-
-📊 GitHub Stats:
-
-![Vikas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vikaskanukuntla&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikaskanukuntla&layout=compact&theme=tokyonight)
